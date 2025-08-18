@@ -1,0 +1,9 @@
+{
+  "recipients_file": "recipients.txt",
+  "subject": "Student Researching the Future of Retail",
+  "body_file": "body.html",
+  "html": true,
+  "from_name": "Alexander Pak",
+  "sleep": 0.5,
+  "dry": false
+}
