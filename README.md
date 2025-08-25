@@ -1,4 +1,4 @@
-# Gmail Automator Software
+# Gmail Automation Program
 
 This tool sends the same subject and body to a list of recipients using your Gmail account.
 Each recipient receives an individual email, rather than being included in CC or BCC.
